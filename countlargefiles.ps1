@@ -1,6 +1,7 @@
 # Counts the amount of large files in a given directory and displays the results
 
 
+
 # Declare a path to search for large files
 $path = Read-Host -Prompt 'Please enter the file path you want to scan for large files'
 
